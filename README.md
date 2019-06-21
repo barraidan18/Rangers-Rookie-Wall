@@ -12,3 +12,7 @@ Start by importing all the relevant data into SQL tables. It is possible to impo
 
 ![SQL code](https://github.com/barraidan18/Rangers-Rookie-Wall/blob/master/rangers_rookies_script.sql)
 
+Here is the R code to make the conection to the PosgreSQL database, query it and then analyze the data.
+
+
+
