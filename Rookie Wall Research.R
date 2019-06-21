@@ -11,11 +11,11 @@ require(RPostgreSQL)
 
 # establish a connection to the SQL database
 
-pwd <- "Rangers7622"
+pwd <- "yourpassword"
 
 drv <- dbDriver("PostgreSQL")
 
-con <- dbConnect(drv, dbname= "aidanbarr", host = "localhost", port = 5432, user = "aidanbarr", password = pwd)
+con <- dbConnect(drv, dbname= "yourusername", host = "localhost", port = 5432, user = "yourusername", password = pwd)
 
 #check for tables
 
